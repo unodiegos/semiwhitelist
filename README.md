@@ -1,6 +1,6 @@
 # Semiwhitelist system for ESX Legacy, ESX
 
-This is an old resource that i found on my computer, thought of optimized it.
+This is an old resource that i found on my computer, thought of optimize it for y'all.
 
 # 📋 Installation
 
