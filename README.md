@@ -16,7 +16,9 @@ Navigate to your `server.cfg`, find empty space and write the following :
 
 ## Step 4.
 Create a bot and invite it to your fivem server, use the link below to create a bot.
+
 🗒️ https://discordpy.readthedocs.io/en/stable/discord.html ➡️ `How to create a discord bot`
+
 🤖 https://discord.com/developers/applications ➡️ `Discord Developer Portal`
 
 ## Step 5. 
